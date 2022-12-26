@@ -1,6 +1,6 @@
 # Tris-liste
 
-Ce projet a pour but d'observer les performances de différentes fonctions de tris developpés en ocaml. Les données des tests sont dans le dossier `data`, l'analyse dans le dossier `analyse`.
+Ce projet a pour but d'observer les performances de différentes fonctions de tris developpés en ocaml. Les données des tests sont dans le dossier `data`, l'analyse dans le dossier `analyse`. Un script en python peut être retrouver dans le dossier `src` celui permet de calculer la moyenne des temps d'execution de chaque algo et d'écrire dans les fichiers de tests cette valeur.
 
 ## Algorithme de tris
 
@@ -8,10 +8,10 @@ Vous pourrez retrouver dans le dossier `src` le fichier `tris.ml` contenant les 
 
 Quatre algorithme sont implémenté :
 
-- [Tri comptage](###Tri-comptage)
-- [Tri par sélection du minimum](###Tri-par-sélection-du-minimum)
-- [Tri crêpes](###Tri-crêpes)
-- [Tris par encerclement](###Tri-par-encerclement)
+- [Tri comptage](#Tri-comptage)
+- [Tri par sélection du minimum](#Tri-par-sélection-du-minimum)
+- [Tri crêpes](#Tri-de-crêpes)
+- [Tri par encerclement](#Tri-par-encerclement)
 
 ### Tri comptage
 
